@@ -424,7 +424,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja |  [m3u8 # HD](https://5924d3ad0efcf.streamlock.net/rioja/rioja/playlist.m3u8) - | [web](https://www.larioja.com/la-rioja/actualidad-instante-20191007114948-nt.html) | [logo](http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png) | - | EMB | 
-| Popular TV La Rioja | [m3u8](https://live.vimeocdn.com/1591630449-0xab89ee4c846bb21bafde4f2adf8c2bde3433f886/2100a61c-822b-4bff-8bb8-3e007446387a/chunklist_b2056000.m3u8?max_segments=10) [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=200&height=200) | - | - |
+| Popular TV La Rioja | [m3u8](https://live.vimeocdn.com/1591630449-0xab89ee4c846bb21bafde4f2adf8c2bde3433f886/2100a61c-822b-4bff-8bb8-3e007446387a/chunklist_b2056000.m3u8?max_segments=10) | [web](http://www.populartvlarioja.com/directo/) | [logo](https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://www.populartvlarioja.com/wp-content/uploads/2013/11/logo_cyan1.png) | - | - |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org:1943/live/parlarioja/playlist.m3u8) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | EMB |
 
 ### Melilla
