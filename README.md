@@ -471,4 +471,8 @@
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | [logo](https://graph.facebook.com/comarcaltv/picture?width=200&height=200) | - | - |
 | Thader TV | - | [web](http://www.thader.tv/) | [logo](https://graph.facebook.com/thader.tv/picture?width=200&height=200) | - | - |
+
+## TODA ESPAÑA
+| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| - | - | - | - | - | - |
 | Euronews | [m3u8](https://euronews-es-p2-cdn.hexaglobe.net/d0e884d756aa8975b6c0390f883e9bae/5ede77e8/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/ewnsabres_spa_720p33.m3u8) | [web](https://es.euronews.com/embed/live) | [logo](https://static.euronews.com/website/images/euronews_horizontal_flat_vectoriel_newblueweb.svg) | - | W3U |
