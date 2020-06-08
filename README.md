@@ -3,7 +3,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-|JONVLOGS21Tv| [m3u8](https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10)                             [logo](https://jonvlogs21.es/wp-content/uploads/2020/01/dfd4b155-5ef0-4735-9bd9-819d75c434fd_200x200.png) |JONVLOGS21Tv| - || La 1 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
+|JONVLOGS21Tv| [m3u8](https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10)                              |JONVLOGS21Tv| - |
+[m3u8 # 1](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
 | La 2 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | [m3u8 # GEO](https://livestartover.atresmedia.com/geoantena3/master.m3u8) - [m3u8](https://livestartover.atresmedia.com/antena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | - |
 | Cuatro | [m3u8](http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | - |
@@ -422,7 +423,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Rioja |  [m3u8 # HD](https://5924d3ad0efcf.streamlock.net/rioja/rioja/playlist.m3u8) - | [web](http://www.tvr.es/directo/)                                                                [logo] (http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png) 
+| TV Rioja |  [m3u8 # HD](https://5924d3ad0efcf.streamlock.net/rioja/rioja/playlist.m3u8) - | [web](https://www.larioja.com/la-rioja/actualidad-instante-20191007114948-nt.html) | [logo](http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png) | - | EMB | 
 | Popular TV La Rioja | - | [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=200&height=200) | - | - |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org:1943/live/parlarioja/playlist.m3u8) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | EMB |
 
