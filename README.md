@@ -30,7 +30,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| 24h Rtve | [m3u8 # 1](https://rtvelivestream.akamaized.net/24h_dvr.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/hls/nxrtgolumi/24h_dvr.m3u8) - [m3u8 # 3](https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) | [web](https://www.rtve.es/directo/canal-24h/) [youtube](https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live) | [logo]| (https://img2.rtve.es/css/rtve.2017.apps/rtve.2017.noticias/resources/24h_mosca_RGB.jpg?ts=1591644390000) | 24Horas.TV | - |
+| 24h Rtve | [m3u8 # 1](https://rtvelivestream.akamaized.net/24h_dvr.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/hls/nxrtgolumi/24h_dvr.m3u8) - [m3u8 # 3](https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) | [web](https://www.rtve.es/directo/canal-24h/) [youtube]  | [logo](https://img2.rtve.es/css/rtve.2017.apps/rtve.2017.noticias/resources/24h_mosca_RGB.jpg?ts=1591644390000) | 24Horas.TV | - |
 | Nius | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8) | [web](https://www.niusdiario.es/) | [logo](https://graph.facebook.com/NiusDiario/picture?width=200&height=200) | - | - |
 | El País | [youtube](https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live) | [web](https://elpais.com/) | [logo](https://graph.facebook.com/elpais/picture?width=200&height=200) | - | EMB |
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com/) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB |
