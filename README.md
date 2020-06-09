@@ -428,7 +428,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja |  [m3u8 # HD](https://5924d3ad0efcf.streamlock.net/rioja/rioja/playlist.m3u8) - [m3u8 # SD](http://teledifusion.tv/rioja/rioja/chunklist_w303079349.m3u8)  - | [web](http://www.tvr.es/directo2/) | [logo](http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png) | - | EMB | 
-| Popular TV La Rioja | [m3u8](https://live-api.cloud.vimeo.com/sessions/31d516d2-f341-4cc9-9829-e55fc2427212/playlist/hls.m3u8?cdn=fastly&json=1&~id=player&~exp=1591712084&~sig=YvPAnEyLyFvsdLe-IQjhRBjbwp3wLvnJhlBLXsB_ADw) | [web](http://www.populartvlarioja.com/directo/) | [logo](https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://www.populartvlarioja.com/wp-content/uploads/2013/11/logo_cyan1.png) | - | - |
+| Popular TV La Rioja | [m3u8](https://live-api.cloud.vimeo.com/sessions/d1aacc05-92f5-4cbb-ab72-12f4ee9a40db/playlist/hls.m3u8?cdn=akamai&~id=player&~exp=1591716568&~sig=_1-B3ErzQMBJZckpRsuNCRiniOrIejBRzjxT0SpiJ7I) | [web](http://www.populartvlarioja.com/directo/) | [logo](https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://www.populartvlarioja.com/wp-content/uploads/2013/11/logo_cyan1.png) | - | - |
 | Parlamento de La Rioja | [youtube](https://www.youtube.com/channel/UCpAY_YgIajM3YH4Bx3SdXSw/live) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://www.parlamento-larioja.org/sticky-logo.png) | - | EMB |
 | Universidad de La Rioja | [youtube](https://www.youtube.com/user/campusUR/live) | [web](https://www.unirioja.es/) | [logo](https://aps.unirioja.es/imagenes/cabecera/cabecera_r1_c1.gif) | - | EMB |
 ### Melilla
