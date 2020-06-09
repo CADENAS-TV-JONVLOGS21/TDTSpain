@@ -480,4 +480,4 @@
 ## TODA ESPAÑA
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Euronews | [m3u8](https://euronews-es-p7-cdn.hexaglobe.net/fa31788488817074bfd03588fbb5d33a/5ede8279/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/playlist.m3u8) | [web](https://es.euronews.com/embed/live) | [logo](https://static.euronews.com/website/images/euronews_horizontal_flat_vectoriel_newblueweb.svg) | - | W3U |
+| Euronews | [youtube](https://www.youtube.com/user/euronewses/live) | [web](https://es.euronews.com/live) | [logo](https://yt3.ggpht.com/a/AATXAJwCJCgRRRyjvoNRtuOVAdZBxO2CggPi-QHqyQ=s100-c-k-c0xffffffff-no-rj-mo) | - | W3U |
