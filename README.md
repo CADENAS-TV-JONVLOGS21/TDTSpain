@@ -481,3 +481,4 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Euronews | [youtube](https://www.youtube.com/user/euronewses/live) | [web](https://es.euronews.com/live) | [logo](https://yt3.ggpht.com/a/AATXAJwCJCgRRRyjvoNRtuOVAdZBxO2CggPi-QHqyQ=s100-c-k-c0xffffffff-no-rj-mo) | - | W3U |
+
