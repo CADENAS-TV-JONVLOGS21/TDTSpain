@@ -26,6 +26,7 @@
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
+| Euronews | [youtube](https://www.youtube.com/user/euronewses/live) | [web](https://es.euronews.com/live) | [logo](https://yt3.ggpht.com/a/AATXAJwCJCgRRRyjvoNRtuOVAdZBxO2CggPi-QHqyQ=s100-c-k-c0xffffffff-no-rj-mo) 
 ## NOTICIAS
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
@@ -476,8 +477,3 @@
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | [logo](https://graph.facebook.com/comarcaltv/picture?width=200&height=200) | - | - |
 | Thader TV | - | [web](http://www.thader.tv/) | [logo](https://graph.facebook.com/thader.tv/picture?width=200&height=200) | - | - |
-
-## TODA ESPAÑA
-| Canal | M3U8 | Web | Logo | EPG ID | Info |
-| - | - | - | - | - | - |
-| Euronews | [youtube](https://www.youtube.com/user/euronewses/live) | [web](https://es.euronews.com/live) | [logo](https://yt3.ggpht.com/a/AATXAJwCJCgRRRyjvoNRtuOVAdZBxO2CggPi-QHqyQ=s100-c-k-c0xffffffff-no-rj-mo) | - | W3U |
