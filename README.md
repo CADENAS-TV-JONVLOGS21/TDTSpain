@@ -340,7 +340,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | [m3u8](https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8) | [web](https://www.navarratelevision.es/Directo) | [logo](https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20202429g) | NaTV.TV | - |
+| Navarra TV | [m3u8](https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8) | [web](https://jonvlogs21.es/wp-content/uploads/2020/06/NAVARRATv.html) | [logo](https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20202429g) | NaTV.TV | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/master.m3u8) | [web](https://www.parlamentodenavarra.es/) | [logo](https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_200x200.jpg) | - | - |
 | TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com/) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Capilla San Fermín | [youtube](https://www.youtube.com/channel/UCaP5Gf6VJwgs2ZmnGgWk4Yw/live) | [web](http://www.capillasanfermin.com/) | [logo](http://www.capillasanfermin.com/wp-content/uploads/2018/12/logotipo-parroquia-san-lorenzo.png) | - | EMB |
@@ -451,7 +451,7 @@
 | Goiena | [m3u8](https://zuzenean.goienamedia.eus:8443/telebista.m3u8) | [web](https://goiena.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/goiena.eus/picture?width=200&height=200) | - | - |
 | TeleBilbao | [m3u8](https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8) [#youtube](https://www.youtube.com/channel/UCIO2etjhzHQH2I---pW0BCA/live) | [web](https://www.telebilbao.es/directo/) | [logo](https://graph.facebook.com/312994995454199/picture?width=200&height=200) | - | NONAV |
 | 28 Kanala | [m3u8](https://5940924978228.streamlock.net/8157/8157/master.m3u8) | [web](https://www.28kanala.eus/) | [logo](https://graph.facebook.com/28kanala/picture?width=200&height=200) | - | - |
-| TeleDonosti | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/playlist.m3u8) | [web](http://www.teledonosti.tv/directos/) | [logo](https://graph.facebook.com/teledonosti.web/picture?width=200&height=200) | - | - |
+| TeleDonosti | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/playlist.m3u8) | [web](https://jonvlogs21.es/wp-content/uploads/2020/06/TELEDONOSTI-1.html) | [logo](https://graph.facebook.com/teledonosti.web/picture?width=200&height=200) | - | - |
 | Diócesis de San Sebastián | [youtube](https://www.youtube.com/channel/UCkMli1Vn4L17IoTLI0GEyHQ/live) | [web](https://www.elizagipuzkoa.org/) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/482606_513167795390926_370516181_n.jpg?_nc_cat=100&_nc_sid=7aed08&_nc_ohc=6xH8UCiOIG0AX9g003y&_nc_ht=scontent-cdg2-1.xx&oh=1a4fd5823c29c0cdb766acfa4b7dca27&oe=5F05531A) | - | EMB |
 | Goierri Irrati Telebista | [m3u8](https://5940924978228.streamlock.net/8155/8155/master.m3u8) | [web](http://www.gitb.eus/) | [logo](https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200) | - | - |
 | Erlo Telebista | [m3u8](https://5940924978228.streamlock.net/8159/8159/master.m3u8) | [web](http://www.erlotelebista.eus/) | [logo](https://graph.facebook.com/542582126141223/picture?width=200&height=200) | - | - |
