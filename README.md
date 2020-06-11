@@ -340,7 +340,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | [m3u8](https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8) | [web](https://jonvlogs21.es/wp-content/uploads/2020/06/NAVARRATv.html) | [logo](https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20202429g) | NaTV.TV | - |
+| Navarra TV | [m3u8](https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8) | [web](https://www.natv.es/Directo) | [logo](https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20202429g) | NaTV.TV | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/master.m3u8) | [web](https://www.parlamentodenavarra.es/) | [logo](https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_200x200.jpg) | - | - |
 | TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com/) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Capilla San Fermín | [youtube](https://www.youtube.com/channel/UCaP5Gf6VJwgs2ZmnGgWk4Yw/live) | [web](http://www.capillasanfermin.com/) | [logo](http://www.capillasanfermin.com/wp-content/uploads/2018/12/logotipo-parroquia-san-lorenzo.png) | - | EMB |
