@@ -52,6 +52,7 @@
 | UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | NONAV |
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
+| Tiempo de Juego Cope |  [youtube](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego) | [logo]https://cope-cdnmed.agilecontent.com/resources/jpg/3/8/1592071438583.jpg) |-| - |
 ## Infantiles
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
@@ -79,8 +80,8 @@
 | Radio 3 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Radio 24h Rtve | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Del 40 al 1 | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
-| WEBCAM Cadena 100 | [m3u8#1](https://programa-live.flumotion.com/programa-live/chunklist.m3u8) [m3u8#2] (https://hls-directo02-cope-stream.flumotion.com/cope/directo02/chunks.m3u8) [#youtube] (https://www.youtube.com/user/cadena100/live) | [web](https://www.cadena100.es/) | [logo](https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/cadena-100-logo-e800bff05a1557af279dfac9bd15af96.svg) | - | - |
-| COPE TV | [m3u8](https://hls-directo01-cope-stream.flumotion.com/cope/directo01/playlist.m3u8) [#youtube] (https://www.youtube.com/user/cadenacope/live) | [web](https://www.cope.es/directos/video) | [logo](https://cope-cdnsta.agilecontent.com/img/data/footer/logo/cope.svg) | - | - |
+| WEBCAM Cadena 100 | [m3u8#1](https://programa-live.flumotion.com/programa-live/chunklist.m3u8) [m3u8#2](https://hls-directo02-cope-stream.flumotion.com/cope/directo02/chunks.m3u8) [youtube](https://www.youtube.com/user/cadena100/live)| [web](https://www.cadena100.es/) | [logo](https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/cadena-100-logo-e800bff05a1557af279dfac9bd15af96.svg) | - | - |
+| COPE TV | [m3u8](https://hls-directo01-cope-stream.flumotion.com/cope/directo01/playlist.m3u8) [youtube](https://www.youtube.com/user/cadenacope/live) | [web](https://www.cope.es/directos/video) | [logo](https://cope-cdnsta.agilecontent.com/img/data/footer/logo/cope.svg) | - | - |
 
 
 
