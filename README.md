@@ -16,9 +16,8 @@
 | Atreseries | - | [web](https://www.atresplayer.com/directos/atreseries/) | [logo](https://graph.facebook.com/atreseries/picture?width=200&height=200) | Atreseries.TV | W3U,EMB |
 | FDF | [m3u8](https://live.mitele.es/hls/live/2005336/fdf/bitrate_4.m3u8) | [web](https://www.mitele.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | - |
 | Energy | [m3u8](http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620) | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | - |
-| 
-Divinity | [m3u8](https://live.mitele.es/hls/live/2005335/divinity/bitrate_4.m3u8) | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | - |
-| Be Mad | [m3u8](https://live.mitele.es/hls/live/2005333/bemad/bitrate_4.m3u8) | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | - |
+| Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | W3U,EMB |
+| Be Mad | - | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | W3U,EMB |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](https://www.paramountnetwork.es/en-directo/4ypes1/paramount) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | - |
 | TRECE | [m3u8](https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8 # HD](https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8) - [m3u8 # SD](https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-300/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
@@ -27,7 +26,7 @@ Divinity | [m3u8](https://live.mitele.es/hls/live/2005335/divinity/bitrate_4.m3u
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
-| Euronews | [youtube](https://www.youtube.com/user/euronewses/live) | [web](https://es.euronews.com/live) | [logo](https://yt3.ggpht.com/a/AATXAJwCJCgRRRyjvoNRtuOVAdZBxO2CggPi-QHqyQ=s100-c-k-c0xffffffff-no-rj-mo) 
+| Euronews | [youtube](https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live) | [web](https://es.euronews.com/live) | [logo](https://yt3.ggpht.com/a/AATXAJwCJCgRRRyjvoNRtuOVAdZBxO2CggPi-QHqyQ=s100-c-k-c0xffffffff-no-rj-mo) | - | W3U |
 ## NOTICIAS
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
