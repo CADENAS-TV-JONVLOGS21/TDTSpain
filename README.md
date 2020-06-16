@@ -52,7 +52,7 @@
 | UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | NONAV |
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
-| Tiempo de Juego Cope |  [youtube](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego) | [logo]https://cope-cdnmed.agilecontent.com/resources/jpg/3/8/1592071438583.jpg) |-| - |
+| Tiempo de Juego Cope |  [youtube](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego) |[logo](https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/402827_410738065653442_862008653_n.jpg?_nc_cat=106&_nc_sid=7aed08&_nc_ohc=0C-w2IrBIf4AX_nGF75&_nc_ht=scontent-cdt1-1.xx&oh=7513c224b05a9ce7bab401986d286fc6&oe=5F0C5AA2) |-| - |
 ## Infantiles
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
