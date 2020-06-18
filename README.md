@@ -6,16 +6,16 @@
 |JONVLOGS21Tv| [m3u8](https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10) | [web](https://jonvlogs21.es/directo/) | [logo](https://jonvlogs21.es/wp-content/uploads/2020/01/dfd4b155-5ef0-4735-9bd9-819d75c434fd_200x200.png) | JONVLOGS21Tv |
 |LA 1 Rtve| [m3u8 # 1](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
 | La 2 Rtve | [m3u8 # 1](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
-| Antena 3 | [m3u8 # GEO](https://livestartover.atresmedia.com/geoantena3/master.m3u8) - [m3u8](https://livestartover.atresmedia.com/antena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | - |
-| Cuatro | [m3u8](https://live.mitele.es/hls/live/2004102/cuatro/bitrate_4.m3u8) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | - |
-| Telecinco | [m3u8](https://live.mitele.es/hls/live/2004101/telecinco/bitrate_4.m3u8) | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | - |
+| Antena 3 [m3u8 # 1](https://directo.atresmedia.com/1592540569_cc878181f3b21fc73994a79117cebe705b775410/antena3/master.m3u8) -  |  [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | - |
+| Cuatro | - | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | W3U,EMB |
+| Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | W3U,EMB |
 | laSexta | [m3u8 # GEO](https://livestartover.atresmedia.com/geolasexta/master.m3u8) - [m3u8](https://livestartover.atresmedia.com/lasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/) | [logo](https://graph.facebook.com/laSexta/picture?width=200&height=200) | LaSexta.TV | - |
 | Neox | [m3u8 # GEO](https://livestartover.atresmedia.com/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | [logo](https://graph.facebook.com/neox/picture?width=200&height=200) | Neox.TV | - |
 | Nova | [m3u8 # GEO](https://livestartover.atresmedia.com/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | [logo](https://graph.facebook.com/novatdt/picture?width=200&height=200) | Nova.TV | - |
 | Mega | - | [web](https://www.atresplayer.com/directos/mega/) | [logo](https://graph.facebook.com/megaTDT/picture?width=200&height=200) | Mega.TV | W3U,EMB |
 | Atreseries | - | [web](https://www.atresplayer.com/directos/atreseries/) | [logo](https://graph.facebook.com/atreseries/picture?width=200&height=200) | Atreseries.TV | W3U,EMB |
-| FDF | [m3u8](https://live.mitele.es/hls/live/2005336/fdf/bitrate_4.m3u8) | [web](https://www.mitele.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | - |
-| Energy | [m3u8](http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620) | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | - |
+| FDF | - | [web](https://www.mitele.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | W3U,EMB |
+| Energy | - | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | W3U,EMB |
 | Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | W3U,EMB |
 | Be Mad | - | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | W3U,EMB |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](https://www.paramountnetwork.es/en-directo/4ypes1/paramount) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | - |
@@ -57,7 +57,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Boing | [m3u8](http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620) | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | - |
+| Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | W3U,EMB |
 | Clan Rtve | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/infantil/directo/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
 ## EVENTOS
 
