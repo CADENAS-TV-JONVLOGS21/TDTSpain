@@ -345,6 +345,9 @@
 | Solidaria TV | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](http://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_all/playlist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
 | 8madrid TV | - | [web](https://www.8madrid.tv/) | [logo](https://graph.facebook.com/8madridTV/picture?width=200&height=200) | - | - |
+| Comunidad de Madrid | [m3u8](http://emisionrdp.madrid.org/4CB729B4CB014F069A9506A59341A556021/uno-300/playlist.m3u8)  - [m3u8 # 2](https://d1oylfin80hx18.cloudfront.net/out/v1/99179ca593454f8da760b1d751154b50/index_8.m3u8) | [web](https://www.comunidad.madrid/) | [logo](https://www.comunidad.madrid/sites/all/themes/drpl/logo.png) | - | - |
+| 8madrid TV | - | [web](https://www.8madrid.tv/) | [logo](https://graph.facebook.com/8madridTV/picture?width=200&height=200) | - | - |
+
 
 ### C. Foral de Navarra
 
