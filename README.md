@@ -26,7 +26,7 @@
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
-| Euronews |  [m3u8](https://euronews-es-p12-cdn.hexaglobe.net/e757b3111ecd50092c2976c79d7aaa61/5eec7c47/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/playlist.m3u8) | [web](https://es.euronews.com/live) | [logo](http://www.aragontelevision.es/_archivos/imagenes/galeria_140249.jpg) | - | W3U |
+| Euronews |-| [web](https://es.euronews.com/live) | [logo](http://www.aragontelevision.es/_archivos/imagenes/galeria_140249.jpg) | - | W3U |
 ## NOTICIAS
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
