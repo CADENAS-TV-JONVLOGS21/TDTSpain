@@ -36,8 +36,8 @@
 | El País | [youtube](https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live) | [web](https://elpais.com/) | [logo](https://graph.facebook.com/elpais/picture?width=200&height=200) | - | EMB |
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com/) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB |
 | EuropaPress TV | [m3u8](https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | [logo](https://graph.facebook.com/europapress.es/picture?width=200&height=200) | - | - |
-| Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com/efe/espana/1) | [logo]| Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://s.libertaddigital.com/images/svg/logo-ld-aniversario-crespon.svg) | Libertad.TV | EMB,EXTB |
-## Deportivos
+| Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com/efe/espana/1) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
+| Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://s.libertaddigital.com/images/svg/logo-ld-aniversario-crespon.svg) | Libertad.TV | EMB,EXTB |
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
