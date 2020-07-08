@@ -495,7 +495,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| VITORIA-GASTEIZ | [m3u8](http://demos.wolkam.com/gasteiz/gasteiz.m3u8)  [#youtube](https://www.youtube.com/embed/tsRvJzhZA90?autoplay=1)  | [web](http://meteoweb.org/webcam-vitoria-gasteiz/) | [logo]() |-| - |
+| VITORIA-GASTEIZ | [m3u8](http://demos.wolkam.com/gasteiz/gasteiz.m3u8)  [#youtube](https://youtu.be/jeu_kkXmSVM?autoplay=1)  | [web](http://meteoweb.org/webcam-vitoria-gasteiz/) | [logo]() |-| - |
 | LAREDO | [m3u8](http://demos.wolkam.com/laredo/laredo.m3u8) | [web](http://meteoweb.org/webcam-laredo/) |
 | CONCHA1 | [m3u8](https://live.webcam-hd.fr/64connections/conchasanse2.stream/playlist.m3u8) | [web](https://gusansebastian.com/#webcamid) |  | - | - |
 | Concha2 | - | [web](https://www.la-perla.net/webcam-donosti/) | [logo]() | - | - |
