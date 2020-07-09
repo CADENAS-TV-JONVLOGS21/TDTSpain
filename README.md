@@ -501,7 +501,7 @@
 | VITORIA-GASTEIZ | [m3u8](http://demos.wolkam.com/gasteiz/gasteiz.m3u8)  [#youtube](https://youtu.be/jeu_kkXmSVM?autoplay=1)  | [web](http://meteoweb.org/webcam-vitoria-gasteiz/) | [logo]() |-| - |
 | LAREDO | [m3u8](http://demos.wolkam.com/laredo/laredo.m3u8) | [web](http://meteoweb.org/webcam-laredo/) |
 | CONCHA1 | [m3u8](https://live.webcam-hd.fr/64connections/conchasanse2.stream/playlist.m3u8) | [web](https://gusansebastian.com/#webcamid) |  | - | - |
-| Concha2 | - | [web](https://www.la-perla.net/webcam-donosti/) | [logo]() | - | - |
+| CONCHA2| [m3u8](https://live.webcam-hd.fr/64connections/conchasanse.stream/playlist.m3u8) | [web](https://www.la-perla.net/en/webcam/) | [logo]() |-| - |
 | CONCHA3| [m3u8](https://58f14c0895a20.streamlock.net/camaramar/GIP_kontxa_169.stream/playlist.m3u8) | [web](https://www.gipuzkoa.eus/es/web/ingurumena/playas/webcams/kontxa) | [logo]() |-| - |
 | CONCHA4| [IMG](https://www.kostasystem.com/hondartzak/img/fotos/LaConcha_detalle_z1.jpg) | [web](https://www.donostia.eus/ataria/es/web/hondartzak/edukiera) | [logo]() |-| - |
 | CONCHA5| [IMG](http://camara.hlondres.com/axis-cgi/jpg/image.cgi) | [web](https://www.hlondres.com/es/webcam) | [logo]() |-| - |
