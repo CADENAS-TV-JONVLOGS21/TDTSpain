@@ -7,17 +7,17 @@
 |LA 1 Rtve| [m3u8](https://rtvelivestream-lvlt.rtve.es/la1_dvr_1850.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
 | La 2 Rtve | [m3u8](https://rtvelivestream-lvlt.rtve.es/la2_dvr.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | - | [web](https://www.antena3.com/) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/83020872_10157194957951298_8296655486086807552_n.jpg?_nc_cat=102&_nc_sid=174925&_nc_ohc=7nFMJtHrS3MAX-xt-sd&_nc_ht=scontent-cdg2-1.xx&oh=a0e907d01c77574735809088d6c53ee2&oe=5F141C1C) |-| W3U,EMB |
-| Cuatro | - | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | W3U,EMB |
-| Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | W3U,EMB |
+| Cuatro | [m3u8 # HD](https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8) - [m3u8 # SD](https://linear02-i.akamaihd.net/hls/live/837811/cuatro/03.m3u8) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://files.mediaset.es/cimg/1001/2019/10/01/cuatro-claro_5f31.svg?w=1024) | Cuatro.TV | EXTA |
+| Telecinco | [m3u8 # HD](https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8) - [m3u8 # SD](https://linear01-i.akamaihd.net/hls/live/837810/telecinco/03.m3u8) | [web](https://www.mitele.es/directo/telecinco) | [logo](https://mobilecrm.accengage.net/images/logo_application/101194.png) | Telecinco.TV | EXTA |
 | laSexta | - | [web](https://www.atresplayer.com/directos/lasexta/) | [logo](https://graph.facebook.com/laSexta/picture?width=200&height=200) | LaSexta.TV | W3U,EMB |
 | Neox | [m3u8 # GEO](https://livestartover.atresmedia.com/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | [logo](https://graph.facebook.com/neox/picture?width=200&height=200) | Neox.TV | - |
 | Nova | [m3u8 # GEO](https://livestartover.atresmedia.com/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | [logo](https://graph.facebook.com/novatdt/picture?width=200&height=200) | Nova.TV | - |
 | Mega | - | [web](https://www.atresplayer.com/directos/mega/) | [logo](https://graph.facebook.com/megaTDT/picture?width=200&height=200) | Mega.TV | W3U,EMB |
 | Atreseries | - | [web](https://www.atresplayer.com/directos/atreseries/) | [logo](https://graph.facebook.com/atreseries/picture?width=200&height=200) | Atreseries.TV | W3U,EMB |
-| FDF | - | [web](https://www.mitele.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | W3U,EMB |
-| Energy | - | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | W3U,EMB |
-| Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | W3U,EMB |
-| Be Mad | - | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | W3U,EMB |
+| FDF | [m3u8 # HD](https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8) - [m3u8 # SD](https://linear02-i.akamaihd.net/hls/live/837813/fdf/03.m3u8) | [web](https://www.mitele.es/directo/fdf) | [logo](https://files.mediaset.es/cimg/1001/2019/10/01/factoriadeficcion-claro_f2c2.svg?w=1024) | FDF.TV | EXTA |
+| Energy | [m3u8 # HD](https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8) - [m3u8 # SD](https://linear02-i.akamaihd.net/hls/live/837816/energy/03.m3u8) | [web](https://www.mitele.es/directo/energy) | [logo](https://files.mediaset.es/cimg/1001/2019/10/01/energy-claro_a8b9.svg?w=1024) | Energy.TV | EXTA |
+| Divinity | [m3u8 # HD](https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8) - [m3u8 # SD](https://linear01-i.akamaihd.net/hls/live/837812/divinity/03.m3u8) | [web](https://www.mitele.es/directo/divinity) | [logo](https://files.mediaset.es/cimg/1001/2019/10/01/divinity-claro_3d0a.svg?w=1024) | Divinity.TV | EXTA |
+| Be Mad | [m3u8 # HD](https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8) - [m3u8 # SD](https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8) | [web](https://www.mitele.es/directo/bemad) | [logo](https://files.mediaset.es/cimg/1001/2019/10/01/bemad-claro_5df1.svg?w=1024) | Bemad.TV | EXTA |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/chunks.m3u8) | [web](https://www.paramountnetwork.es/en-directo/4ypes1/paramount) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | - |
 | TRECE | [m3u8](https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8 # HD](https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8) - [m3u8 # SD](https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-300/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
@@ -26,7 +26,7 @@
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
-| Euronews | [youtube](https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live) | [web](https://es.euronews.com/live) | [logo](http://www.aragontelevision.es/_archivos/imagenes/galeria_140249.jpg) | - | W3U |
+
 ## NOTICIAS
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
@@ -38,6 +38,7 @@
 | EuropaPress TV | [m3u8](https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | [logo](https://graph.facebook.com/europapress.es/picture?width=200&height=200) | - | - |
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com/efe/espana/1) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
 | Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://s.libertaddigital.com/images/svg/logo-ld-aniversario-crespon.svg) | Libertad.TV | EMB,EXTB |
+| Euronews | [youtube](https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live) | [web](https://es.euronews.com/live) | [logo](http://www.aragontelevision.es/_archivos/imagenes/galeria_140249.jpg) | - | W3U |
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
@@ -58,7 +59,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | W3U,EMB |
+| Boing | [m3u8 # HD](https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8) - [m3u8 # SD](https://linear01-i.akamaihd.net/hls/live/837814/boing/03.m3u8) | [web](https://www.mitele.es/directo/boing) | [logo](https://d2lv662meabn0u.cloudfront.net/boing/static/base/images/logo_es_es.png) | Boing.TV | EXTA |
 | Clan Rtve | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/infantil/directo/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
 ## EVENTOS
 
