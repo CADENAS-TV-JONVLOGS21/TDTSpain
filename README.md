@@ -61,6 +61,7 @@
 | - | - | - | - | - | - |
 | Boing | [m3u8 # HD](https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8) - [m3u8 # SD](https://linear01-i.akamaihd.net/hls/live/837814/boing/03.m3u8) | [web](https://www.mitele.es/directo/boing) | [logo](https://d2lv662meabn0u.cloudfront.net/boing/static/base/images/logo_es_es.png) | Boing.TV | EXTA |
 | Clan Rtve | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/infantil/directo/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
+| Lola Toc Toc | [youtube](https://www.youtube.com/channel/UCVx5MQ-qneJdKxkvHOCakIw/live) | [web](https://lolatoctoc.com/) | [logo](https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/f6/fe/26/f6fe26c8-787f-a920-45bc-b19f6c742a58/17UM1IM15750.rgb.jpg/500x500cc.jpeg) | - | EMB |
 ## EVENTOS
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
