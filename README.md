@@ -39,6 +39,7 @@
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com/efe/espana/1) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
 | Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://s.libertaddigital.com/images/svg/logo-ld-aniversario-crespon.svg) | Libertad.TV | EMB,EXTB |
 | Euronews | [youtube](https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live) | [web](https://es.euronews.com/live) | [logo](http://www.aragontelevision.es/_archivos/imagenes/galeria_140249.jpg) | - | W3U |
+##  Deportivos
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
