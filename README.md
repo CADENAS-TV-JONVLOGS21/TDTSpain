@@ -485,7 +485,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](https://www.rtpa.es/television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | - |
+| TPA7 | [m3u8 # HD](https://cdnlive2.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8?i3SZupSbj2FIumARt-fXvF_LRotEIaDPM_jTZlErPOAsI47BmDtLclZbhHxvLs8vR88nZnPdw8v0FBoTI3Owd41e8VAW-uKBILW0G92GSfuY3uRW6dvJNYhxLhxjQ8aK4rZZDzBJ) - [m3u8 # SD](https://cdnlive2.shooowit.net/rtpalive/smil:directo.smil/chunklist_b500000.m3u8?i3SZupSbj2FIumARt-fXvF_LRotEIaDPM_jTZlErPOAsI47BmDtLclZbhHxvLs8vR88nZnPdw8v0FBoTI3Owd41e8VAW-uKBILW0G92GSfuY3uRW6dvJNYhxLhxjQ8aK4rZZDzBJ) | [web](https://www.rtpa.es/television) | [logo](https://www.rtpa.es/v3_assets/rtpa-isotipo-top.svg) | TPA.TV | - |
 | VinxTV | [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://www.vinx.es/vinx-live/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
 | EsAsturiasTV | [m3u8](https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | - |
 | Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_200x200.png) | - | - |
