@@ -4,7 +4,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 |JONVLOGS21Tv | - | [web](https://jonvlogs21.es/directo/) | [logo](https://jonvlogs21.es/wp-content/uploads/2020/01/dfd4b155-5ef0-4735-9bd9-819d75c434fd_200x200.png) | JONVLOGS21Tv |
-|LA 1 Rtve| [m3u8](https://rtvelivestream-lvlt.rtve.es/la1_dvr_1850.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
+|LA 1 Rtve| [m3u8](https://rtvelivestream-lvlt.rtve.es/la1_dvr_1850.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://www.movistarplus.es/recorte/n/caratula4/M919674V1599786) | La1.TV | - |
 | La 2 Rtve | [m3u8](https://rtvelivestream-lvlt.rtve.es/la2_dvr.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | - | [web](https://www.antena3.com/) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/83020872_10157194957951298_8296655486086807552_n.jpg?_nc_cat=102&_nc_sid=174925&_nc_ohc=7nFMJtHrS3MAX-xt-sd&_nc_ht=scontent-cdg2-1.xx&oh=a0e907d01c77574735809088d6c53ee2&oe=5F141C1C) |-| W3U,EMB |
 | Cuatro | [m3u8 # HD](https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8) - [m3u8 # SD](https://linear02-i.akamaihd.net/hls/live/837811/cuatro/03.m3u8) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://files.mediaset.es/cimg/1001/2019/10/01/cuatro-claro_5f31.svg?w=1024) | Cuatro.TV | EXTA |
