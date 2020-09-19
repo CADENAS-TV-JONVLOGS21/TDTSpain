@@ -406,8 +406,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Extremadura | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | - |
-| Cáceres Tevé | [m3u8](https://ce2019100818001.dnssw.net/hls/ceres.m3u8) | [web](https://caceresteve.es/directo-caceres-teve/) | [logo](https://graph.facebook.com/caceresteve/picture?width=200&height=200) | - | NONAV |
+| Canal Extremadura | [m3u8 # HD 1](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8) - [m3u8 # HD 2](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1000000_DVR.m3u8) - [m3u8 # SD](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b500000_DVR.m3u8) | [web](http://www.canalextremadura.es/tv/directo) | [logo](https://www.canalextremadura.es/themes/custom/seedos_dark/logo.svg) | Extremadura.TV | - |
+| Cáceres Tevé | [m3u8](https://ce2019100818001.dnssw.net/hls/ceres.m3u8) | [web](https://caceresteve.es/directo-caceres-teve/) | [logo](https://i2.wp.com/caceresteve.es/wp-content/uploads/2020/06/caceres-directo-hd.jpg?resize=1500%2C844&ssl=1) | - | NONAV |
 | Televisión Extremeña | [youtube](https://www.youtube.com/channel/UC_jB4xEftCkAHquU8AGB4iQ/live) | [web](https://www.xn--televisionextremea-30b.com/television-extremena-directo/) | [logo](https://pbs.twimg.com/profile_images/1053956922523705344/7B0DTMHw_200x200.jpg) | - | EMB |
 
 ### Galicia
