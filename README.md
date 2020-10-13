@@ -446,7 +446,9 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Rioja |  [m3u8](https://5924d3ad0efcf.streamlock.net/rioja/rioja/playlist.m3u8)   [#youtube](https://www.youtube.com/user/tvreninternet/live)  | [web](http://www.tvr.es/directo2/) | [logo](http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png) | - | EMB | 
+| TV Rioja |  [m3u8](https://5924d3ad0efcf.streamlock.net/rioja/rioja/playlist.m3u8)   [#youtube](https://www.youtube.com/user/tvreninternet/live)  |
+[web](http://www.tvr.es/directo2/) | [logo](http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png) | - | EMB | 
+| 7 La Rioja  | [m3u8 # HD](https://pc-la7delarioja-hls.flumotion.com/promecal/live3_720p/chunks.m3u8) - [m3u8 # SD](https://pc-la7delarioja-hls.flumotion.com/promecal/live3_360p/chunks.m3u8) - [m3u8 # SD_2](https://pc-la7delarioja-hls.flumotion.com/promecal/live3_480p/chunks.m3u8) | [web](https://www.7rioja.tv/Directo) | [logo](https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png?20200626b) | NaTV.TV | - |
 | Parlamento de La Rioja | [youtube](https://www.youtube.com/channel/UCpAY_YgIajM3YH4Bx3SdXSw/live) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://www.parlamento-larioja.org/sticky-logo.png) | - | EMB |
 | Universidad de La Rioja | [youtube](https://www.youtube.com/user/campusUR/live) | [web](https://www.unirioja.es/) | [logo](https://aps.unirioja.es/imagenes/cabecera/cabecera_r1_c1.gif) | - | EMB |
 ### Melilla
