@@ -45,7 +45,7 @@
 | - | - | - | - | - | - |
 | Teledeporte Rtve| [m3u8](https://rtvelivestream-lvlt.rtve.es/tdp_dvr_1850.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | - |
 | Gol Tv | - | [web](https://www.goltelevision.com/futbol-en-directo) | [logo](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/44321808_2141346612795297_5712776287202836480_n.jpg?_nc_cat=100&_nc_sid=174925&_nc_ohc=GR-oH9V0eo0AX_rDpHa&_nc_ht=scontent-cdg2-1.xx&oh=14484db35e030a672df8d69f7267ac9d&oe=5F2DA5DC) | GOL.TV | W3U,EXTA |
-| Fight Time | [m3u8](http://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8) | [web](http://fight-time.com/) | [logo](https://graph.facebook.com/FightTimeEntertainment/picture?width=200&height=200) | - | - |
+| Fight Time | [m3u8](https://cloud1.senyprojects.com/live.m3u8?stream=1) | [web](http://fight-time.com/) | [logo](https://graph.facebook.com/FightTimeEntertainment/picture?width=200&height=200) | - | - |
 | RealMadrid TV | [m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # EN](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200) | RMTV.TV | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | - | NOEM |
 | Sevilla TV | - | [web](https://jonvlogs21.es/wp-content/uploads/2020/08/LIVESevillaTV.html) | [logo](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/thumbnail/entry_id/0_wzckw85c/version/100002/acv/42/width/1366/height/646) | - | - |
