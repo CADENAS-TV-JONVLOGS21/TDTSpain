@@ -26,7 +26,7 @@
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
-| LQSA 24h | [m3u8](https://cdn4.lqsa.es/hls/stream.m3u8) | [web](https://comunidadmontepinar.es/lqsa24h/) | [logo](https://comunidadmontepinar.es/wp-content/uploads/2017/08/logo-lqsa.jpg) | - | - |
+| LQSA 24h | [m3u8](https://cdn7.lqsa.es/hls/1/stream.m3u8) | [web](https://comunidadmontepinar.es/lqsa24h/) | [logo](https://comunidadmontepinar.es/wp-content/uploads/2017/08/logo-lqsa.jpg) | - | - |
 | ANHQV 24h | [m3u8](https://cdn5.lqsa.es/hls/2/stream.m3u8) | [web](https://anhqv.es/24h/) | [logo](https://anhqv.es/wp-content/uploads/2017/08/vlcsnap-2017-06-02-11h26m13s961.jpg) | - | - |
 
 ## NOTICIAS
