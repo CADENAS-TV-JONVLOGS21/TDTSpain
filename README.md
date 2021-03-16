@@ -448,7 +448,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Rioja |  [m3u8](http://teledifusion.tv/rioja/rioja/playlist.m3u8?wowzasessionid=1166756718) [#youtube](https://www.youtube.com/user/tvreninternet/live) | [web](https://players.brightcove.net/86746484001/rJ0nzIuK_default/index.html?videoId=6136786877001) | [logo](https://proyectos.larioja.com/externos/tvr/tvr.svg) | - | EMB | 
+| TV Rioja |  [m3u8](http://teledifusion.tv/rioja/rioja/playlist.m3u8?wowzasessionid=1166756718) [#youtube](https://www.youtube.com/user/tvreninternet/live) | [web](https://proyectos.larioja.com/tvr/html5/tvrendirecto.php) | [logo](https://proyectos.larioja.com/externos/tvr/tvr.svg) | - | EMB | 
 | 7 La Rioja  | [m3u8 # HD](https://pc-la7delarioja-hls.flumotion.com/promecal/live3_720p/chunks.m3u8) - [m3u8 # SD](https://pc-la7delarioja-hls.flumotion.com/promecal/live3_360p/chunks.m3u8) - [m3u8 # SD_2](https://pc-la7delarioja-hls.flumotion.com/promecal/live3_480p/chunks.m3u8)  [m3u8 #3](https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8)  | [web](https://www.7rioja.tv/Directo) | [logo](https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png?20200626b) | - | - |
 | Parlamento de La Rioja | [youtube](https://www.youtube.com/channel/UCpAY_YgIajM3YH4Bx3SdXSw/live) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://www.parlamento-larioja.org/sticky-logo.png) | - | EMB |
 | Universidad de La Rioja | [youtube](https://www.youtube.com/user/campusUR/live) | [web](https://www.unirioja.es/) | [logo](https://aps.unirioja.es/imagenes/cabecera/cabecera_r1_c1.gif) | - | EMB |
