@@ -89,6 +89,8 @@
 | Del 40 al 1 | [m3u8 # HD](https://prisaradio-live.prisasd.com/live-content/directo40al1/bitrate_3.m3u8) - [m3u8 # SD](https://prisaradio-live.prisasd.com/live-content/directo40al1/bitrate_2.m3u8) - [m3u8 # SD_2](https://prisaradio-live.prisasd.com/live-content/directo40al1/bitrate_1.m3u8)   [m3u8 #3](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://del40al1.los40.com/del40al1/img/Logo_40al1_Directo.png) | - | - |
 | Cadena 100 Eventos| [m3u8#1](https://programa-live.flumotion.com/programa-live/playlist.m3u8) [m3u8#2](https://hls-directo02-cope-stream.flumotion.com/cope/directo02/chunks.m3u8) [#youtube](https://www.youtube.com/user/cadena100/live)| [web](https://www.cadena100.es/programas/video-en-directo) | [logo](https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/cadena-100-logo-e800bff05a1557af279dfac9bd15af96.svg) | - | - |
 | COPE TV | [m3u8](https://hls-directo01-cope-stream.flumotion.com/cope/directo01/playlist.m3u8) [#youtube](https://www.youtube.com/user/cadenacope/live) | [web](https://www.cope.es/directos/video) | [logo](https://cope-cdnsta.agilecontent.com/img/data/footer/logo/cope.svg) | - | - |
+| MegastarFM Eventos| [m3u8](https://hls-directo04-cope-stream.flumotion.com/cope/directo04/playlist.m3u8)| [web](https://www.megastar.fm/programas/video-en-directo) | [logo](https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/118785393_1628789813962147_8566111459400790328_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=hmZ_yycEC5QAX_yp33S&_nc_ht=scontent-mad1-1.xx&tp=6&oh=8530daa2dc3f235fd70d7e10d98dab1f&oe=6076F8A6) | - | - |
+
 
 
 
