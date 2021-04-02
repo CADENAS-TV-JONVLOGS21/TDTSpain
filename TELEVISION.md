@@ -465,7 +465,7 @@
 | Durangaldeko TV | [m3u8](https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8) | [web](https://dotb.eus/) | [logo](https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200) | - | NONAV |
 | TeleBilbao | [m3u8](https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8) | [web](https://www.telebilbao.es/directo/) | [logo](https://graph.facebook.com/312994995454199/picture?width=200&height=200) | - | NONAV,UAG |
 | Erlo TV | [m3u8](https://5940924978228.streamlock.net/8159/8159/master.m3u8) | [web](http://www.erlotelebista.eus/) | [logo](http://www.erlotelebista.eus/images/ikonoak/erlo-telebista-logo.png) | - | - |
-| Betania | [youtube](https://www.youtube.com/user/elizbarrutia1) | [web](https://www.elizagipuzkoa.org/) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjRU-K1YbACP7vYlJP_g8KbbmnE6JHFMX5Q) | - | - |
+| Betania | [youtube](https://www.youtube.com/user/elizbarrutia1/live) | [web](https://www.elizagipuzkoa.org/) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjRU-K1YbACP7vYlJP_g8KbbmnE6JHFMX5Q) | - | - |
 | Oizmendi TV | [m3u8](https://5940924978228.streamlock.net/8161/8161/master.m3u8) | [web](https://www.oizmendi.eus/) | [logo](https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200) | - | - |
 | Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8) | [web](https://www.urolatelebista.com/) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
 
