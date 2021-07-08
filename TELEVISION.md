@@ -4,8 +4,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
-| La 2 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
+| La 1 | [m3u8 # 1](https://rtvelivestreamv3.akamaized.net/la1_main_dvr_1080.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
+| La 2 | [m3u8 # 1](https://rtvelivestreamv3.akamaized.net/la2_main_dvr_360.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | - | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | W3U,EMB,EXTA |
 | Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | W3U,EMB,EXTA |
 | Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | W3U,EMB,EXTA |
@@ -100,7 +100,7 @@
 | Radio 5 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
 | Cadena 100 Eventos| [m3u8#1](https://programa-live.flumotion.com/programa-live/playlist.m3u8) [m3u8#2](https://hls-directo02-cope-stream.flumotion.com/cope/directo02/chunks.m3u8) [#youtube](https://www.youtube.com/user/cadena100/live)| [web](https://www.cadena100.es/programas/video-en-directo) | [logo](https://cadena100-cdnsta.agilecontent.com/cadena100-frontend/public/assets/img/cadena-100-logo-e800bff05a1557af279dfac9bd15af96.svg) | - | - |
-| COPE TV | [m3u8](https://hls-directo01-cope-stream.flumotion.com/cope/directo01/playlist.m3u8) [#youtube](https://www.youtube.com/user/cadenacope/live) | [web](https://www.cope.es/directos/video) | [logo](https://cope-cdnsta.agilecontent.com/img/data/footer/logo/cope.svg) | - | - |
+| COPE TV | [m3u8](https://cope-religion-video.flumotion.com/playlist.m3u8) [#youtube](https://www.youtube.com/user/cadenacope/live) | [web](https://www.cope.es/directos/video) | [logo](https://cope-cdnsta.agilecontent.com/img/data/footer/logo/cope.svg) | - | - |
 | MegastarFM Eventos| [m3u8](https://hls-directo04-cope-stream.flumotion.com/cope/directo04/playlist.m3u8)| [web](https://www.megastar.fm/programas/video-en-directo) | [logo](https://megastar-cdnsta.agilecontent.com/megastar-frontend/public/assets/img/default-image-19b81c9d47ee744294963267458f8a35.svg) | - | - |
 | RockFM Eventos| [m3u8](https://hls-directo03-cope-stream.flumotion.com/cope/directo03/chunks.m3u8)| [web](https://www.rockfm.fm/programas/video-en-directo) | [logo](https://rockfm-cdnsta.agilecontent.com/rockfm-frontend/public/assets/img/previo_playlist_rockfm.png-86c7a3a215725b0184b81718a2b84012.jpg) | - | - |
 | Onda Cero Eventos | [m3u8 # 1](https://live-estudio.ondacero.es/estudio_oc-pull/video/chunklist.m3u8)- [m3u8 # 2](https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8) | [web](https://www.ondacero.es/) | [logo](https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-1/p200x200/127859290_10158876073329028_945144188820582431_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=Z74ztf2gHA8AX_gcwjg&_nc_ht=scontent-mad1-1.xx&tp=6&oh=25003d21a06eee9986a5d187f1a2c0f0&oe=60B6017D) | - | - |
@@ -481,7 +481,7 @@
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
 | La 1 P. de Asturias | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@381564/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
-| EsAsturiasTV | [m3u8](https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | - |
+| EsAsturiasTV | [m3u8](https://cloud.streamingconnect.tv:455/asturiastv/asturiastv.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | - |
 | Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_200x200.png) | - | - |
 
 ### R. de Murcia
