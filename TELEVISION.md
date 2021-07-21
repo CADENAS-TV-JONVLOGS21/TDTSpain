@@ -105,6 +105,7 @@
 | RockFM Eventos| [m3u8](https://hls-directo03-cope-stream.flumotion.com/cope/directo03/chunks.m3u8)| [web](https://www.rockfm.fm/programas/video-en-directo) | [logo](https://rockfm-cdnsta.agilecontent.com/rockfm-frontend/public/assets/img/previo_playlist_rockfm.png-86c7a3a215725b0184b81718a2b84012.jpg) | - | - |
 | Onda Cero Eventos | [m3u8 # 1](https://live-estudio.ondacero.es/estudio_oc-pull/video/chunklist.m3u8)- [m3u8 # 2](https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8) | [web](https://www.ondacero.es/) | [logo](https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-1/p200x200/127859290_10158876073329028_945144188820582431_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=Z74ztf2gHA8AX_gcwjg&_nc_ht=scontent-mad1-1.xx&tp=6&oh=25003d21a06eee9986a5d187f1a2c0f0&oe=60B6017D) | - | - |
 | Mitele Eventos | [m3u8](https://premium0506-i.akamaihd.net/hls/live/827156/premium05/01.m3u8) | [web](https://www.mitele.es/directo/eurotubers/) | [logo](https://album.mediaset.es/cimg/1001/2019/12/05/logo_mitele_05ff_05ff_05ff.png) | - | - |
+| CylTV Eventos | [m3u8](https://cdnlive.shooowit.net/la7live/smil:channel2.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/Eventos) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | - | - |
 ## Autonómicos
 
 ### Andalucía
@@ -528,10 +529,4 @@
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
 | Diócesis de San Sebastián España | [youtube](https://www.youtube.com/channel/UCkMli1Vn4L17IoTLI0GEyHQ/live) | [web](https://www.elizagipuzkoa.org/) | [logo](https://www.elizagipuzkoa.org/adjuntos/logotipo_20150929.png) | - | EMB |
-| Vatican News | [youtube](https://www.youtube.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ/live) | [web](https://www.vaticannews.va/es.html) | [logo](https://graph.facebook.com/vaticannews.es/picture?width=200&height=200) | - | EMB |
-| El Sembrador TV Europa | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |
-| María Visión Mexico | [m3u8](https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8) | [web](https://www.mariavision.com/mariavisionenvivo) | [logo](https://graph.facebook.com/mariavision/picture?width=200&height=200) | - | - |
-| Enlace TV Costa Rica | [youtube](https://www.youtube.com/channel/UC0qFX9cnDZCMSJriRqcN37A/live) | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=200&height=200) | - | EMB |
-| Emmanuel TV Nigeria | [m3u8 # EN](https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | NONAV |
-| Redevida Brasil | [m3u8 # PT](https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8) | [web](http://www.redevida.com.br/ao-vivo) | [logo](https://graph.facebook.com/redevida/picture?width=200&height=200) | - | - |
-| 3ABN USA | [m3u8 # EN # 1](https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8) - [m3u8 # EN # 2](https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8) | [web](https://3abn.org/all-streams/) | [logo](https://graph.facebook.com/3abn.org/picture?width=200&height=200) | - | - |
+
