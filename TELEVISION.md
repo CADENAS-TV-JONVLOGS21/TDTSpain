@@ -21,6 +21,7 @@
 | TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8](https://live1-eltorotv.flumotion.com/playlist.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | EXTA |
+| Secret Story 24h | [m3u8](https://premium0506-i.akamaihd.net/hls/live/827156/premium05/01.m3u8) | [web](https://www.mitele.es/directo/secret-story-24h/) | [logo](https://graph.facebook.com/SecretStoryEs/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
@@ -40,6 +41,7 @@
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com/) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
 | Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200) | Libertad.TV | EMB |
 | Negocios TV | [m3u8](https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8) | [web](https://www.negocios.es/) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | - |
+| 7NN Noticias | [m3u8](https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8) | [web](https://7nn.tv/) | [logo](https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg) | - | NONAV |
 
 ## Deportivos
 
@@ -528,5 +530,5 @@
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_400x400.jpg) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
-| Diócesis de San Sebastián España | [youtube](https://www.youtube.com/channel/UCkMli1Vn4L17IoTLI0GEyHQ/live) | [web](https://www.elizagipuzkoa.org/) | [logo](https://www.elizagipuzkoa.org/adjuntos/logotipo_20150929.png) | - | EMB |
+| Betania TV | [youtube](https://www.youtube.com/channel/UCkMli1Vn4L17IoTLI0GEyHQ/live) | [web](https://www.elizagipuzkoa.org/) | [logo](https://www.elizagipuzkoa.org/adjuntos/fichero_20862_20210724.jpg) | - | EMB |
 
